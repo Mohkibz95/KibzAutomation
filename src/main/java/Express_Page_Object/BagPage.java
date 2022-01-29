@@ -20,7 +20,7 @@ public class BagPage extends Reusable_Annotations {
         PageFactory.initElements(driver,this);
         this.logger = Reusable_Annotations.logger;
     }//end of the constructor method
-
+//hit
 
 
     @FindBy(xpath = "//*[text()='+Size+']")
